@@ -1,6 +1,7 @@
 # sell
+请用移动端或者chrome设置为移动端模式浏览
 
-> sell app
+[demo](https://yangxi0126.github.io/sellApp/dist/index.html)
 
 ## Build Setup
 
