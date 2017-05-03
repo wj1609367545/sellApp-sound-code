@@ -26,7 +26,10 @@ router.map({
 	},
 	'seller': {
 		component: seller
-	}
+	},
+  '*': {
+    component: goods
+  }
 });
 
 router.start(app, '#app');
